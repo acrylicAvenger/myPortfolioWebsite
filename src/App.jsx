@@ -29,7 +29,7 @@ const siteProps = {
   email: "darshanshah7135@gmail.com",
   gitHub: "https://github.com/acrylicAvenger",
   instagram: "_darshanshah_7",
-  linkedIn: "https://github.com/acrylicAvenger",
+  linkedIn: "https://www.linkedin.com/in/darshan-shah-15b7a5203",
   medium: "",
   twitter: "",
   youTube: "",
